@@ -6,8 +6,7 @@ Supervised by: Professor <b>Mauro Sozio</b> && Postdoc <b>Oana Balalau</b>
 Télécom Paristech, Computer Science Department (INFRES)
 
 ###	Download tweets via Twitter API
-Using tutorial in this link http://socialmedia-class.org/twittertutorial.html
 
-The gather_tweets.py is provided by Postdoc Oana Balalau. We made a few modifications to only store the tweets contents and the time information, in order to save disk space.
+The gather_tweets.py is provided by Oana Balalau. We made a few modifications to only store the tweets contents and the time information, in order to save disk space.
 
 The downloaded data are in the folder data in bz2 format.
