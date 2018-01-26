@@ -1,5 +1,9 @@
 # Twitter events detection about IT companies
-Supervised by Professor <b>Mauro Sozio</b> and Postdoc <b>Oana Balalau</b> in Télécom Paristech, Computer Science Department (INFRES).
+Students: Yao FENG && Lieqiang GUO
+
+Supervised by: Professor <b>Mauro Sozio</b> and Postdoc <b>Oana Balalau</b> 
+
+Télécom Paristech, Computer Science Department (INFRES)
 
 ###	Download tweets via twitter API
 Using tutorial in this link http://socialmedia-class.org/twittertutorial.html
