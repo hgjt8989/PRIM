@@ -1,0 +1,20 @@
+#run the python program
+python gather_tweets.py key.txt data/ twitter_credentials.txt
+
+#transfer files to the server on windows
+pscp gather_tweets.py key.txt twitter_credentials.txt yafeng@lame12.enst.fr:/infres/ir610/stud/yafeng/twitter
+
+#run a program in background
+nohup python gather_tweets.py key-com.txt data/ twitter_credentials.txt &
+
+# find the pids of the programs running in background for certain users 
+ps -u yafeng
+
+# kill a process by pid
+kill -9 pid
+
+#list size of all files
+du -ah
+
+#install tweepy
+pip install --user tweepy
