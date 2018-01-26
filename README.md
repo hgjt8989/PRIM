@@ -1,5 +1,5 @@
 # Twitter events detection about IT companies
-Students: Yao FENG && Lieqiang GUO
+Students: <b>Yao FENG</b> && <b>Lieqiang GUO</b>
 
 Supervised by: Professor <b>Mauro Sozio</b> and Postdoc <b>Oana Balalau</b> 
 
