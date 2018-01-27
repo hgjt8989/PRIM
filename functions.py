@@ -41,9 +41,6 @@ regex_str = [
     
 tokens_re = re.compile(r'('+'|'.join(regex_str)+')', re.VERBOSE | re.IGNORECASE)
 
-
-
-
 def preprocess(s):
     '''
     tokenize the sentence
