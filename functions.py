@@ -491,7 +491,14 @@ def isolate(l):
     
 def qG(G,S):
     '''
-    A function 
+    To calculate a ratio used for verifying if the subgraph S of G is a weighted gamma quasi-clique.
+
+    inputs:
+        G: a graph, the type is np.ndata.
+        S: a subgraph of G, the type is np.ndata.
+
+    output:
+        return the ratio if S is not empty, otherwise return 0.
     '''
     if len(S):
         x, y = np.meshgrid(S,S)
