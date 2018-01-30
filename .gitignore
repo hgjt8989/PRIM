@@ -3,6 +3,7 @@
 *.DS_Store
 *.zip
 data/
+.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
